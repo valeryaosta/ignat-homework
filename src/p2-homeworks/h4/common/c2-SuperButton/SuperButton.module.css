@@ -9,7 +9,7 @@
 
 .default {
     background: #352A3B;
-    color: dimgrey;
+    color: burlywood;
     outline: none;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .button:focus {
-    color: #352A3B;
+    color: #696969;
     cursor: auto;
 }
 
